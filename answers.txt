@@ -5,5 +5,10 @@
 5. ac 
 6. heelo
 7. 
-8. jump
+8. bounce/jump
 9.
+10. chef
+11.
+12.9946
+13.skillful
+14. 
