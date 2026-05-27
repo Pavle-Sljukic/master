@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(140, 207, 140);
+  font-family: "Franklin Gothic Medium";
+  font-size: medium;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 20px;
+  border: 5px solid rgb(88, 88, 88);
+}
+
+.second {
+  color: red;
+}
+
+#your-name {
+  margin-top: 10%;
+  padding: 1%;
+  padding-left: 3%;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  width: fit-content;
+  background-color: rgb(50, 199, 174);
+}
